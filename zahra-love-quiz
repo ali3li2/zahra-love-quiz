@@ -1,12 +1,2 @@
-# 1. افتح Terminal/Command Prompt
-# 2. انسخ والصق هذه الأوامر واحد تلو الآخر:
-
 git clone https://github.com/YOUR_USERNAME/zahra-love-quiz.git
 cd zahra-love-quiz
-
-# 3. ضع جميع الملفات التي أعطيتك إياها في هذا المجلد
-# (package.json, vite.config.js, index.html, src/App.jsx, src/App.css, src/main.jsx)
-
-# 4. ثم اكتب:
-git add .
-git commit -m "_
